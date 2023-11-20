@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Kyiv",
+      "country": "Ukraine",
+      "date": "2023-10-20T05:37:07.369Z",
+      "notes": "",
+      "emoji": "🇺🇦",
+      "position": {
+        "lat": "50.401515322782366",
+        "lng": "30.520019531250004"
+      },
+      "id": 4
+    },
+    {
+      "cityName": "Vilnius",
+      "country": "Lithuania",
+      "date": "2023-10-20T05:37:26.114Z",
+      "notes": "",
+      "emoji": "🇱🇹",
+      "position": {
+        "lat": "54.68653423452972",
+        "lng": "25.312500000000004"
+      },
+      "id": 6
+    },
+    {
+      "cityName": "Tallinn",
+      "country": "Estonia",
+      "date": "2023-10-20T05:37:29.292Z",
+      "notes": "",
+      "emoji": "🇪🇪",
+      "position": {
+        "lat": "59.4115481664237",
+        "lng": "24.78515625"
+      },
+      "id": 7
+    },
+    {
+      "cityName": "Stockholm",
+      "country": "Sweden",
+      "date": "2023-10-20T05:37:37.251Z",
+      "notes": "",
+      "emoji": "🇸🇪",
+      "position": {
+        "lat": "59.28833169203345",
+        "lng": "18.061523437500004"
+      },
+      "id": 8
+    },
+    {
+      "cityName": "Oslo",
+      "country": "Norway",
+      "date": "2023-10-20T05:37:41.133Z",
+      "notes": "",
+      "emoji": "🇳🇴",
+      "position": {
+        "lat": "59.866883195210214",
+        "lng": "10.810546875000002"
+      },
+      "id": 9
+    },
+    {
+      "cityName": "Sofia",
+      "country": "Bulgaria",
+      "date": "2023-10-20T05:37:50.206Z",
+      "notes": "",
+      "emoji": "🇧🇬",
+      "position": {
+        "lat": "42.633958722673164",
+        "lng": "23.334960937500004"
+      },
+      "id": 10
+    }
+  ]
+}
